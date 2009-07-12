@@ -4,5 +4,7 @@
 
 first released for public at July 13, 2009. 
 
-credit for fajran:
-http://ngoprek.fajran.web.id/2009/07/epaper-kompas.html
+credit:
+  # fajran - http://ngoprek.fajran.web.id/2009/07/epaper-kompas.html
+  # Kompas - http://www.kompas.com
+  # KPLI - http://www.linux.or.id
