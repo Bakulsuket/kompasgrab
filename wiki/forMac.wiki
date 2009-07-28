@@ -1,5 +1,5 @@
 #labels Phase-Implementation
-#for mac user (in indonesia language) - originally written by z0r (jasakom-perjuangan)
+#for mac user (in indonesia language) - written by z0r (taken from jasakom-perjuangan mailing list)
 
 1. Apple's Xcode Developer Tools (v3.1 or later for Leopard, or v2.4.1 or later for Tiger)
 ada di OSX Install/Retail DVD atau http://developer.apple.com/tools/xcode/
